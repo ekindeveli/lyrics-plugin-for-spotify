@@ -137,8 +137,12 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-#API Keys
+# API Keys
 secret.py
 
-#PyCharm
+# Package Files
+Auth_token.json
+song_lyrics.txt
+
+# PyCharm Files
 .idea/
