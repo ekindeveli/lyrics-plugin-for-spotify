@@ -60,7 +60,7 @@ threading.Thread(target=SpotiAuth.SpotiAuth.recursive_reinit,
 
 # Creating the Window for the GUI
 root = Tk()
-root.title("Spotify Lyrics Plugin")
+root.title("Lyrics Plugin for Spotify")
 root.configure(background='#0066CC')
 root.minsize(420, 220)
 root.maxsize(880, 920)

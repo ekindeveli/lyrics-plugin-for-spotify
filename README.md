@@ -1,2 +1,2 @@
-# SpotifyLyricsPlugin
+# LyricsPluginForSpotify
  Lyrics Plugin for Spotify
